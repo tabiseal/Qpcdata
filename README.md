@@ -1,2 +1,2 @@
 # test
-![image](main/Qpcdata/seal.jpg)
+![image](./seal.jpg)
